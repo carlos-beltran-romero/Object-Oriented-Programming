@@ -1,4 +1,4 @@
-# Proyecto de Manejo de Cadenas y Fechas en C++
+# Proyecto P1 de Manejo de Cadenas y Fechas en C++
 
 Este proyecto implementa dos clases principales en C++: `Cadena` y `Fecha`, que permiten trabajar con cadenas de caracteres y fechas de manera robusta y personalizada, utilizando sobrecarga de operadores y manejo de excepciones.
 
@@ -39,9 +39,4 @@ Este proyecto implementa dos clases principales en C++: `Cadena` y `Fecha`, que 
    - **Rangos válidos**:
      - El año debe estar entre 1902 y 2037.
 
-## Compilación y Ejecución
-
-Para compilar el proyecto, puedes usar un compilador como `g++`. Asegúrate de que los archivos `.cpp` y `.hpp` estén en el mismo directorio. Ejemplo de compilación:
-
-```bash
-g++ -o programa principal.cpp cadena.cpp fecha.cpp
+El proyecto P4 cuenta con funcionalidades más destacadas a visualizar.
